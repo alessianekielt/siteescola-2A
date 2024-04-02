@@ -38,7 +38,10 @@
 body{
   font-family: 'Poppins', sans-serif;
 }
-.estudante-imagem{
+.estudante-imagem-um{
+  width: 120px;
+}
+.estudante-imagem-dois{
   width: 200px;
 }
 .estudante-icone{

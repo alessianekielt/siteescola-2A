@@ -39,7 +39,7 @@ body{
   font-family: 'Poppins', sans-serif;
 }
 .estudante-imagem{
-  width: 360px;
+  width: 200px;
 }
 .estudante-icone{
   width: 24px;
@@ -49,7 +49,7 @@ body{
 }
 .estudante-todos{
   display: grid;
-  grid-template-columns: 40% 10% 40%;
+  grid-template-columns: 30% 10% 30%;
 }
 .footer{
   background-color: black;
